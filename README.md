@@ -1,1 +1,1 @@
-### Lista de exercícios em C e Portugol d asciplina Estrutura de Dados
+### Lista de exercícios em C e Portugol da disciplina Estrutura de Dados
